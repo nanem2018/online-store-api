@@ -1,7 +1,4 @@
-﻿{
-  "amount": 46600,
-  "countGoods": 2,
-  "contents": [
+﻿ [
     {
       "id_product": 123,
       "product_name": "Ноутбук",
@@ -15,4 +12,3 @@
       "quantity": 1
     }
   ]
-}
