@@ -1,5 +1,4 @@
- [
-    {
+[{
       "id_product": 123,
       "product_name": "Ноутбук",
       "price": 45600,
@@ -10,5 +9,24 @@
       "product_name": "Мышка",
       "price": 1000,
       "quantity": 1
+    },
+  {
+      "id_product": 409,
+      "product_name": "Монитор",
+      "price": 25000,
+      "quantity": 1
+    },
+  {
+      "id_product": 410,
+      "product_name": "Роутер",
+      "price": 8100,
+      "quantity": 1
+    },
+  {
+      "id_product": 426,
+      "product_name": "Процессор",
+      "price": 15590,
+      "quantity": 1
     }
-  ]
+ 
+ ]
